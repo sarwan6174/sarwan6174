@@ -5,7 +5,7 @@
 
 <br/>  
 
-- 🔭 I’m currently working on [TypeBlitz 😎 ](https://github.com/sarwan6174/TypeBlitz_Vscode)  
+- 🔭 I’m currently working on [TypeBlitz 😎 ](https://github.com/sarwan6174/TypeBlitz)  
   
 
 - 🌱 I’m currently learning Python and HTML  
