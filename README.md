@@ -1,8 +1,5 @@
-****<hr>
-
-### <div align="center">I'm Sarwan Yadav, a part-time full-stack developer 👨‍💻 working from home since 2020 🚀</div>
-
-
+<hr>
+<div align="center">I'm Sarwan Yadav, a part-time full-stack developer 👨‍💻 working from home since 2020 🚀</div>
 <br/>  
 
 - 🔭 I’m currently working on [TypeBlitz 😎 ](https://github.com/sarwan6174/TypeBlitz)  
